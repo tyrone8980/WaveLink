@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WaveLink</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_nethiesinfo">nethiesinfo</string>
+</resources>
